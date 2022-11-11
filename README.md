@@ -20,8 +20,6 @@
 # Duração do curso
 **78 Horas**
 
-----
-
 </div>
 
  <div style="display: inline_block"><br>
