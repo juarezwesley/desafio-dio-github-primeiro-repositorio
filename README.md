@@ -4,21 +4,23 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <a href="https://www.dio.me/bootcamp/orange-tech?ref=CG"><img align="left" height"160" width="160" src="https://hermes.digitalinnovation.one/files/assets/e41313e0-53f7-4306-8791-09ca800fb469.png">
+  <a href="https://www.dio.me/bootcamp/orange-tech?ref=CG"><img align="left" height"150" width="150" src="https://hermes.digitalinnovation.one/files/assets/e41313e0-53f7-4306-8791-09ca800fb469.png">
   
 </div>
   
   O [Orange tech +](https://www.dio.me/bootcamp/orange-tech?ref=CG) é um projeto para quem deseja aprender do zero desenvolvimento front-end e back-end, e tem o propósito de preparar de verdade para as melhores vagas do mercado de tecnologia. O primeiro bootcamp do programa é uma trilha gratuita lançada pelo [Banco Inter](https://www.bancointer.com.br/), em parceria com a [DIO](https://www.dio.me/), que vai abordar desde o princípio as tecnologias JavaScript, HTML, CSS, Typescript e React. Após esse programa, nós participantes teremos o direito a participar de uma trilha completa de back-end. O [Banco Inter](https://www.bancointer.com.br/) disponibilizou 7 mil bolsas de estudos gratuitas. Sendo assim, temos a oportunidade de ter mais visibilidade e impulsionar a inclusão no mercado da tecnologia.
+
+----
   
 </div>
-  
-----
 
 <div style="display: inline_block"><br>
-  <img align="left" height"160" width="160" src="https://png.pngtree.com/png-vector/20191126/ourlarge/pngtree-time-management-icon-png-image_2038482.jpg">
+  <img align="left" height"150" width="150" src="https://png.pngtree.com/png-vector/20191126/ourlarge/pngtree-time-management-icon-png-image_2038482.jpg">
   
 # Duração do curso
-**78 Horas**
+## 78 Horas
+  
+----
 
 </div>
 
